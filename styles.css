@@ -1,6 +1,7 @@
 @font-face {
   font-family: "bold";
   src: url(fonts/ComicShannsMonoNerdFont-Bold.otf);
+  font-display: swap;
 }
 
 body {
